@@ -2,3 +2,5 @@ runway
 ccxt
 openai
 python-dotenv
+fastapi
+uvicorn
