@@ -1,0 +1,9 @@
+name: c5-agent
+version: 1.0
+python: 3.9
+entrypoint: python runway_model.py
+description: All-in-One Smart AI Agent for trading via Gate.io
+requirements:
+  - ccxt
+  - openai
+  - python-dotenv
