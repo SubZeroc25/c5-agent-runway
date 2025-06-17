@@ -1,0 +1,4 @@
+runway
+ccxt
+openai
+python-dotenv
